@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/imba/webpack-app-imba)
+
 # Hello World Imba
 
 Tiny template for Imba using webpack & webpack-dev-server
